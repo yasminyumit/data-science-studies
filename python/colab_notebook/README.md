@@ -85,11 +85,3 @@ Ao final deste notebook, você será capaz de:
 - ✅ Desenvolver algoritmos para resolver problemas
 
 
-
-<div align="center">
-
-**⭐ Se este notebook te ajudou, dê uma estrela no repositório!**
-
-Criado com ❤️ para a comunidade de Ciência de Dados
-
-</div>
