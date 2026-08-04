@@ -70,25 +70,7 @@ data-science-studies/
 - ⚙️ Orquestração de workflows com Apache Airflow
 - 🐳 Execução local de pipelines via Docker
 - 📂 Exemplos de DAGs e plugins customizados
-
-## 🎓 Progresso de Aprendizado
-
-- [x] Programação Básica em Python
-- [x] Estruturas de Dados
-- [x] Análise Exploratória de Dados
-- [ ] Machine Learning
-- [ ] Deep Learning
-- [ ] Big Data
-
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-
-
+=
 ## Modificações Feitas
 
 - Adicionada a pasta **arquitecture/** à estrutura do projeto, dedicada à infraestrutura de dados e orquestração de workflows com Apache Airflow.
