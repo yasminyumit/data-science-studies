@@ -92,10 +92,6 @@ Encontrou um erro ou tem sugestões de melhoria? Sinta-se à vontade para:
 - Enviar um **pull request** com melhorias
 - Compartilhar suas soluções nos comentários
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](../../LICENSE) para mais detalhes.
-
 ---
 
 <div align="center">
