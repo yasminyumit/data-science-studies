@@ -15,7 +15,8 @@ data-science-studies/
 │   ├── 📁 colab_notebook/ # Notebooks do Google Colab
 │   └── 📁 files-.py/      # Arquivos Python organizados por aulas
 ├── 📁 sql/               # Scripts e exercícios de SQL
-└── 📁 statistics/        # Conceitos e aplicações estatísticas
+├── 📁 statistics/        # Conceitos e aplicações estatísticas
+├── 📁 arquitecture/      # Infraestrutura e orquestração de workflows (Airflow)
 ```
 
 ### Detalhes das Pastas
@@ -24,6 +25,7 @@ data-science-studies/
 - **python/**: Estudos de programação Python, incluindo algoritmos básicos e análise de dados
 - **sql/**: Consultas SQL, modelagem de dados e bancos de dados
 - **statistics/**: Conceitos estatísticos, probabilidade e inferência
+- **arquitecture/**: Infraestrutura de dados, orquestração de workflows e exemplos de uso do Apache Airflow
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -35,27 +37,11 @@ data-science-studies/
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 </div>
 
-## 🚀 Como Começar
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/data-science-studies.git
-   cd data-science-studies
-   ```
-
-2. **Instale as dependências:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Explore as pastas:**
-   - Comece pelos arquivos básicos em `python/files-.py/`
-   - Veja os projetos em `projects/`
-   - Pratique SQL em `sql/`
 
 ## 📚 Conteúdo dos Estudos
 
@@ -80,29 +66,14 @@ data-science-studies/
 - 📈 Inferência estatística
 - 📉 Testes de hipóteses
 
-## 🎓 Progresso de Aprendizado
+### Arquitetura de Dados
+- ⚙️ Orquestração de workflows com Apache Airflow
+- 🐳 Execução local de pipelines via Docker
+- 📂 Exemplos de DAGs e plugins customizados
+=
+## Modificações Feitas
 
-- [x] Programação Básica em Python
-- [x] Estruturas de Dados
-- [x] Análise Exploratória de Dados
-- [ ] Machine Learning
-- [ ] Deep Learning
-- [ ] Big Data
-
-## 🤝 Contribuições
-
-Este é um repositório pessoal de estudos, mas sugestões e correções são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-<div align="center">
-
-**⭐ Se este repositório te ajudou, dê uma estrela!**
-
-Feito com ❤️ e muita curiosidade por [Seu Nome]
-
-</div>
+- Adicionada a pasta **arquitecture/** à estrutura do projeto, dedicada à infraestrutura de dados e orquestração de workflows com Apache Airflow.
+- Atualizada a seção de tecnologias utilizadas, incluindo o Apache Airflow.
+- Incluída a descrição da pasta **arquitecture/** nos detalhes das pastas.
+- Acrescentada a seção "Arquitetura de Dados" no conteúdo dos estudos, destacando orquestração de workflows, execução via Docker e exemplos de DAGs.

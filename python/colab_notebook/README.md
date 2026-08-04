@@ -83,3 +83,8 @@ Ao final deste notebook, você será capaz de:
 - ✅ Realizar operações matemáticas e estatísticas básicas
 - ✅ Criar visualizações simples com Matplotlib
 - ✅ Desenvolver algoritmos para resolver problemas
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> c9ba0028ab5907907d5e81a2103c0733a69724f7
