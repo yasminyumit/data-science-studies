@@ -84,15 +84,7 @@ Ao final deste notebook, você será capaz de:
 - ✅ Criar visualizações simples com Matplotlib
 - ✅ Desenvolver algoritmos para resolver problemas
 
-## 🤝 Contribuições
 
-Encontrou um erro ou tem sugestões de melhoria? Sinta-se à vontade para:
-
-- Abrir uma **issue** relatando problemas
-- Enviar um **pull request** com melhorias
-- Compartilhar suas soluções nos comentários
-
----
 
 <div align="center">
 
