@@ -1,6 +1,5 @@
 ---
 
-```markdown
 # 🗄️ Repositório de Scripts Oracle SQL (DDL, DML & DQL)
 
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
