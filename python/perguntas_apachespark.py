@@ -1,0 +1,1 @@
+resultadp = spark.sql("SELECT * FROM tabela_exemplo")
